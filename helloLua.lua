@@ -7,5 +7,3 @@ function helloAdd(num1,num2)
 end
 
 local num = cpp_GetNumber(10,20)
-
-lei go play!
